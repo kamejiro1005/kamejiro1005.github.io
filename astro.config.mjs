@@ -8,5 +8,5 @@ export default defineConfig({
 
     // 2. リポジトリ名（例：my-astro-site）
     // これを書かないと、画像やスタイルが読み込まれず真っ白になります！
-    base: '/.github.io',
+    base: '/',
 });
